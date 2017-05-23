@@ -8,7 +8,8 @@ Pour la CLI
 pwd : Ou je me trouve
 ex: /home/mint est un chemin
 ~ : dossier utilisateur
-cd: change girectory ( changer de repertoire) 
+cd: change directory ( changer de repertoire) 
 chemin absolu : commence toujours par la racine qui est /
-chemin relatif : ne commence pas par un / car ce n'est pas la racine. '' .. '' en est un ( remonte d'un repertoire au repertoire parent)
+chemin relatif : ne commence pas par un / car ce n'est pas la racine. '' .. '' en est un ( remonte d'un repertoire au repertoire
+parent)
 ls: contenu d'un repertoire
