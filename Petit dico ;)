@@ -14,3 +14,4 @@ chemin relatif : ne commence pas par un / car ce n'est pas la racine. '' .. '' e
 parent)
 ls: contenu d'un repertoire
 mkdir : créer un répertoire
+mv : déplacer des dossiers dans d'autres dossiers
