@@ -13,3 +13,4 @@ chemin absolu : commence toujours par la racine qui est /
 chemin relatif : ne commence pas par un / car ce n'est pas la racine. '' .. '' en est un ( remonte d'un repertoire au repertoire
 parent)
 ls: contenu d'un repertoire
+mkdir : créer un répertoire
