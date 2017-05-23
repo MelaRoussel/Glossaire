@@ -2,3 +2,13 @@ Sémantique: Sens des mots
 identation: Ajoute un bloc vide pour rendre le code plus clair
 tabulation: Appuie sur Tab pour l'identation
 emphase : quelque chose d'important
+CLI: Ligne de commande
+
+Pour la CLI
+pwd : Ou je me trouve
+ex: /home/mint est un chemin
+~ : dossier utilisateur
+cd: change girectory ( changer de repertoire) 
+chemin absolu : commence toujours par la racine qui est /
+chemin relatif : ne commence pas par un / car ce n'est pas la racine. '' .. '' en est un ( remonte d'un repertoire au repertoire parent)
+ls: contenu d'un repertoire
